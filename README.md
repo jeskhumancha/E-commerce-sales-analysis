@@ -3,4 +3,4 @@
 2. Start analysis by finding out what will be the KPI's <br>
 3. Create a dashboard using appropriate charts <br>
 <br>
-![image](https://github.com/jeskhumancha/E-commerce-sales-analysis/assets/165833014/d0ca01ce-c220-4a59-913d-0174068d82c0)
+![image](https://github.com/jeskhumancha/E-commerce-sales-analysis/assets/165833014/3ae1823c-9cef-41a7-b169-61be5b00c995)
